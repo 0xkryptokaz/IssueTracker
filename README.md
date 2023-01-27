@@ -25,3 +25,17 @@ Rust is a modern programming language that has gained popularity in recent years
     Understanding of how to debug and troubleshoot WebAssembly code using browser developer tools.
     Knowledge of how to optimize the performance of your application
     Understanding of WebAssembly's security model and how to avoid common vulnerabilities.
+
+Feautures:
+An issue tracker app might need the following features:
+
+    Ability to create, update, and track issues or bugs
+    Assign issues to specific team members
+    Set priorities and deadlines for issues
+    Ability to comment and collaborate on issues
+    Notifications and email updates for changes to issues
+    Search and filter functionality to easily find specific issues
+    Ability to attach files and screenshots to issues
+    Integration with other project management tools
+    Ability to track the progress of issues and mark them as resolved
+    Customizable fields and tags for better organization and categorization of issues.
